@@ -7,7 +7,7 @@
   </parent>
   <groupId>org.webjars</groupId>
   <artifactId>open-icon-library</artifactId>
-  <version>0.11</version>
+  <version>0.12-SNAPSHOT</version>
   <name>Open Icon Library</name>
   <description>WebJar for Open Icon Library</description>
   
@@ -41,7 +41,7 @@
         <url>http://github.com/webjars/open-icon-library</url>
         <connection>scm:git:https://github.com/webjars/open-icon-library.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/open-icon-library.git</developerConnection>
-        <tag>open-icon-library-0.11</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
